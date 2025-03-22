@@ -1,4 +1,5 @@
-
+This is my first GitHub Repository.
+Author: Advay Bhagat
 
 <!---
 advxy21/advxy21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
